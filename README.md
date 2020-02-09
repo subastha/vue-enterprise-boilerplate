@@ -2,7 +2,7 @@
 
 **You diverged from the boilerplate on Feb 08 2020. See [what's been added](https://github.com/chrisvfritz/vue-enterprise-boilerplate/compare/7af8375f142157cc2daae3a2735ba1418605ec54...master) since then.**
 
-> This is an ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using [Vue CLI 3](https://github.com/vuejs/vue-cli). Questions, feedback, and for now, even bikeshedding are welcome. 😄 If you'd like to increase the time I can spend on this project, as well as other Vue resources, **please consider becoming a [sponsor on Patreon](https://www.patreon.com/chrisvuefritz)**. :pray:
+> (Feb-08-2020) This is an ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using [Vue CLI 3](https://github.com/vuejs/vue-cli). Questions, feedback, and for now, even bikeshedding are welcome. 😄 If you'd like to increase the time I can spend on this project, as well as other Vue resources, **please consider becoming a [sponsor on Patreon](https://www.patreon.com/chrisvuefritz)**. :pray:
 
 ## Features
 
